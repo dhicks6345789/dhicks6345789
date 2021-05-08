@@ -6,4 +6,4 @@ I work mostly with Python, with front-end work using HTML, Javascript and Bootst
 
 Some of my projects here are related to making it easier for developers working in, and writing applications for, school and enterprise markets to make their applications deployable and usable by the average user, so I'd be nterested in hearing from anyone wanting to use my software in their workplace.
 
-You can find me at www.sansay.co.uk, or over on Edugeek.
+You can find me at [my own website](https://www.sansay.co.uk), or over on [Edugeek](https://www.edugeek.net).
