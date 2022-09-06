@@ -2,7 +2,7 @@ Hello, I'm David Hicks. I'm a software developer working in the education sector
 
 I'm interested in reducing the administrative burden to schools of using IT resources, both in the classroom and at the back-end. User and identity management should be things that, ideally, just disapear into the background in the classroom, with the focus being on whatever subject is actually being taught.
 
-I work mostly in Python, with front-end work using HTML, Javascript and Bootstrap. I've more recently been using Go, as it better suits some applications. I have some experience with the Gov.UK Design System, having used their front-end template, and wirth static site generation tools such as Jekyll and Hugo.
+I work mostly in Python, with front-end work using HTML, Javascript and Bootstrap. I've more recently been using Go, as it better suits some applications. I have some experience with the Gov.UK Design System, having used their front-end template, and with static site generation tools such as Hugo, Eleventy and Jekyll.
 
 Some of my projects here are related to making it easier for developers working in, and writing applications for, school and enterprise markets to make their applications deployable and usable by the average user, so I'd be interested in hearing from anyone wanting to use my software in their workplace.
 
